@@ -1,6 +1,6 @@
-# PropertyAnalysis
+# Australian Economy Analysis
 
-## This repo contains all the code that will help you determine which properties to invest in, and how much your investment will be worth in the future.
+## This repo contains all the code and data that were used to analyse the Australian Economy.
 #### Authored by: [Michelle](https://github.com/MishQ666), [Jenny](https://github.com/jennyntd), [Scott](https://github.com/Bomegolf), and [Thapa](https://github.com/TribThapa)
 
 <p align="center">
