@@ -4,7 +4,7 @@
 #### Authored by: [Michelle](https://github.com/MishQ666), [Jenny](https://github.com/jennyntd), [Scott](https://github.com/Bomegolf), and [Thapa](https://github.com/TribThapa)
 
 <p align="center">
-    <img src="/Images/InvProp.png" width="1500">
+    <img src="/Images/AusEconomy.png" width="1500">
 </p>
 
 
