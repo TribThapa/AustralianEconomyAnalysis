@@ -4,7 +4,7 @@
 #### Authored by: [Michelle](https://github.com/MishQ666), [Jenny](https://github.com/jennyntd), [Scott](https://github.com/Bomegolf), and [Thapa](https://github.com/TribThapa)
 
 <p align="center">
-    <img src="/Images/InvProp.jpg" width="1500">
+    <img src="/Images/InvProp.png" width="1500">
 </p>
 
 
@@ -15,3 +15,5 @@
 - [Code](https://github.com/TribThapa/PropertyAnalysis/tree/main/Code)
 - [Images](https://github.com/TribThapa/PropertyAnalysis/tree/main/Images)
 - [Data](https://github.com/TribThapa/PropertyAnalysis/tree/main/data)
+
+
