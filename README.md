@@ -24,7 +24,7 @@ The questions we wanted to answer are:
 Ans: 
 
 <p align="center">
-    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
+    <img src="/Images/GDP_Allcountries_bar.PNG" width="1500" height="250">
 </p>
 
 
