@@ -17,8 +17,72 @@ Briefly, in this repository you will find our analysis on:
 <p>&nbsp;</p>
 
 The questions we wanted to answer are:
+
 1. How does Australia's GDP look like when comapred to other countries in the same economic arena
-2. 
+
+Ans: 
+
+<p align="center">
+    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="275">
+</p>
+
+
+2. What does Australia's demographic data look like?
+
+Ans:
+
+<p align="center">
+    <img src="/Images/Aus_Demographics_Line.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/Aus_Demographics_Dropped_Population_Line.png" width="1500" height="275">
+</p>
+
+
+3. What does Australia's financials look like?
+
+Ans:
+
+<p align="center">
+    <img src="/Images/Aus_Financials_Line.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/Aus_Financials_Dropped_GrossIncome_Line.png" width="1500" height="275">
+</p>
+
+
+
+4. How do we compare to the rest of the world in different sectors of world economy?
+
+Ans:
+
+<p align="center">
+    <img src="/Images/World_GDP_Growth_Bar.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/World_Goods_Export_Bar.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/World_Inflation_Bar.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/World_Population_Bar.png" width="1500" height="275">
+</p>
+
+
+<p align="center">
+    <img src="/Images/ASXvSP500_Bar.png" width="1500" height="275">
+</p>
 
 
 <p>&nbsp;</p>
