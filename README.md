@@ -3,6 +3,7 @@
 ## This repo contains all the code and data that were used to analyse the Australian Economy.
 #### Authored by: [Michelle](https://github.com/MishQ666), [Jenny](https://github.com/jennyntd), [Scott](https://github.com/Bomegolf), and [Thapa](https://github.com/TribThapa)
 
+
 Briefly, in this repository you will find our analysis on:
 1. Australia's GDP
 2. Australia's Demographic Data
@@ -11,7 +12,7 @@ Briefly, in this repository you will find our analysis on:
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
+    <img src="/Images/AusMap3D.png" width="1500" height="250">
 </p>
 
 <p>&nbsp;</p>
