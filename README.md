@@ -17,7 +17,8 @@ Briefly, in this repository you will find our analysis on:
 <p>&nbsp;</p>
 
 The questions we wanted to answer are:
-1. 
+1. How does Australia's GDP look like when comapred to other countries in the same economic arena
+2. 
 
 
 <p>&nbsp;</p>
