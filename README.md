@@ -16,7 +16,7 @@ Briefly, in this repository you will find our analysis on:
 
 <p>&nbsp;</p>
 
-The questions we wanted to answer are
+The questions we wanted to answer are:
 1. 
 
 
