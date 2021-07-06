@@ -88,7 +88,7 @@ Ans:
 
 <p>&nbsp;</p>
 
-### Please follow the hyperlinks below to the respective directories:
+### The hyperlinks below take you the directories in this repository:
 
 - [App](https://github.com/TribThapa/PropertyAnalysis/tree/main/AusEconomy_App)
 - [Code](https://github.com/TribThapa/PropertyAnalysis/tree/main/Code)
