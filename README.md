@@ -11,7 +11,7 @@ Briefly, in this repository you will find our analysis on:
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="275">
+    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
 </p>
 
 <p>&nbsp;</p>
@@ -23,7 +23,7 @@ The questions we wanted to answer are:
 Ans: 
 
 <p align="center">
-    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="275">
+    <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
 </p>
 
 
@@ -32,12 +32,12 @@ Ans:
 Ans:
 
 <p align="center">
-    <img src="/Images/Aus_Demographics_Line.png" width="1500" height="275">
+    <img src="/Images/Aus_Demographics_Line.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/Aus_Demographics_Dropped_Population_Line.png" width="1500" height="275">
+    <img src="/Images/Aus_Demographics_Dropped_Population_Line.png" width="1500" height="250">
 </p>
 
 
@@ -46,12 +46,12 @@ Ans:
 Ans:
 
 <p align="center">
-    <img src="/Images/Aus_Financials_Line.png" width="1500" height="275">
+    <img src="/Images/Aus_Financials_Line.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/Aus_Financials_Dropped_GrossIncome_Line.png" width="1500" height="275">
+    <img src="/Images/Aus_Financials_Dropped_GrossIncome_Line.png" width="1500" height="250">
 </p>
 
 
@@ -61,27 +61,27 @@ Ans:
 Ans:
 
 <p align="center">
-    <img src="/Images/World_GDP_Growth_Bar.png" width="1500" height="275">
+    <img src="/Images/World_GDP_Growth_Bar.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Goods_Export_Bar.png" width="1500" height="275">
+    <img src="/Images/World_Goods_Export_Bar.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Inflation_Bar.png" width="1500" height="275">
+    <img src="/Images/World_Inflation_Bar.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Population_Bar.png" width="1500" height="275">
+    <img src="/Images/World_Population_Bar.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/ASXvSP500_Bar.png" width="1500" height="275">
+    <img src="/Images/ASXvSP500_Bar.png" width="1500" height="250">
 </p>
 
 
@@ -100,4 +100,5 @@ Ans:
 1. https://www.abs.gov.au/
 2. https://datatopics.worldbank.org/world-development-indicators/
 3. [CuffLinks](https://github.com/santosjorge/cufflinks)
+4. [PlotLy](https://plotly.com/)
 
