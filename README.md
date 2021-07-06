@@ -12,8 +12,10 @@
 
 ### Please follow the hyperlinks below to the respective directories:
 
+- [App](https://github.com/TribThapa/PropertyAnalysis/tree/main/AusEconomy_App)
 - [Code](https://github.com/TribThapa/PropertyAnalysis/tree/main/Code)
-- [Images](https://github.com/TribThapa/PropertyAnalysis/tree/main/Images)
 - [Data](https://github.com/TribThapa/PropertyAnalysis/tree/main/data)
+- [Images](https://github.com/TribThapa/PropertyAnalysis/tree/main/Images)
+
 
 
