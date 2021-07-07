@@ -1,4 +1,3 @@
-
 import streamlit as st
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
@@ -10,8 +9,8 @@ st.title("Australian Economy Analysis")
 
 st.write('''
 		 This app determines the Australian economy and gives you a quick overview of its
-		 finanicals and demographics. The app also compares Australia to countries in the same 
-		 economic space.
+		 finanicals and demographics. Play around with the numbers to see how much Australia's GDP would change
+		 by.
 		 ''')
 
 
@@ -119,4 +118,4 @@ random_forest.fit(data_train, target_train)
 #making a prediction
 random_forest_pred = random_forest.predict(user_input) 
 
-st.write('The estimated GDP for australia is: ', random_forest_pred)
+st.write('The estimated percent change in Australia's GDP: ', random_forest_pred)
