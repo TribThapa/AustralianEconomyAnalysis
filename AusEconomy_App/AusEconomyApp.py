@@ -118,4 +118,4 @@ random_forest.fit(data_train, target_train)
 #making a prediction
 random_forest_pred = random_forest.predict(user_input) 
 
-st.write('The estimated percent change in Australia's GDP: ', random_forest_pred)
+st.write('The estimated percent change in the Australian GDP is: ', random_forest_pred)
