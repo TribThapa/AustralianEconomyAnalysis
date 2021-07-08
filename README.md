@@ -21,7 +21,9 @@ The questions we wanted to answer are:
 
 1. How does Australia's GDP look like when comapred to other countries in the same economic arena
 
-Ans: 
+Ans: Australia's GDP looks fairly good when compared other global markets. This is particularly noticed
+     when you look at 2007-2008 (Global Financial Crisis) and 2020 (Covid). Here, you don't see much market 
+     changes to Australia's economy as you see for other countries in the same economic arena. 
 
 <p align="center">
     <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
