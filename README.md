@@ -29,8 +29,8 @@ Ans: Australia's GDP looks fairly good when compared to other global markets. Th
 </p>
 
 <p>&nbsp;</p>
-2. What does Australia's demographic data look like?
-\
+2. What does Australia's demographic data look like?<br/>
+
 Ans: Overall, Australia's population is growing. This is an important factor as population growth plays a
      key role in the progression and success of a country's economy. Further, another positive trend within the Australian demographic data is the steady growth in the total number of employed females. However, whilst the total number of employed females is increasing, more needs to be done to ensure an equivalent number of employed males and females. 
 
@@ -44,8 +44,8 @@ Ans: Overall, Australia's population is growing. This is an important factor as 
 </p>
 
 <p>&nbsp;</p>
-3. What does Australia's financials look like?
-\
+3. What does Australia's financials look like?<br/>
+
 Ans: Very similar story to the graphs above - Australia's Gross Income and Total Income seems to be on a 		 steady rise. Whilst this is a good sign, the influence of inflation on Gross Income and Total Income 		 needs to be factored in before any interpretation.   
 
 <p align="center">
@@ -60,11 +60,11 @@ Ans: Very similar story to the graphs above - Australia's Gross Income and Total
 
 <p>&nbsp;</p>
 4. How do we compare to the rest of the world in different sectors of world economy?
-\
+
 Ans: Australia seems to be doing slighly well or even above the average when compared to the countries
      with similar economic landscapes. For instance, the rate at which our GDP is growing is good but 
-     not as great as China or India. This, however, could partly be driven by the shear size of China's and India's population, which is a key factor in driving a country's economy. 
-     \
+     not as great as China or India. This, however, could partly be driven by the shear size of China's and India's population, which is a key factor in driving a country's economy.<br/>
+     
      When looking into good exported, China clearly leads all countries followed by the United States of America. Here, Australia isn't doing as great as the other countries, and could be something to be focussed on to further improve Australia's economy and GDP. Lastly, inflation seems to effect India the most, this partly could be due to the Rupee being relatively weak to other currencies (e.g., US Dollars, Australian Dollars, Chinese Yen).
 
 <p align="center">
