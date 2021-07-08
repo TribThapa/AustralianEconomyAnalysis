@@ -108,4 +108,5 @@ Ans: Australia seems to be doing slighly well or even above the average when com
 2. [World Bank](https://datatopics.worldbank.org/world-development-indicators/)
 3. [CuffLinks](https://github.com/santosjorge/cufflinks)
 4. [PlotLy](https://plotly.com/)
+5. [Machine Learning Classifiers](https://towardsdatascience.com/machine-learning-classifiers-comparison-with-python-33149aecdbca)
 
