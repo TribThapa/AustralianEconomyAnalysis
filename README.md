@@ -28,7 +28,7 @@ Ans: Australia's GDP looks fairly good when compared to other global markets. Th
     <img src="/Images/GDP_Allcountries_bar.png" width="1500" height="250">
 </p>
 
-<p>&nbsp;</p>
+
 2. What does Australia's demographic data look like?  
 
 Ans: Overall, Australia's population is growing. This is an important factor as population growth plays a
@@ -43,7 +43,8 @@ Ans: Overall, Australia's population is growing. This is an important factor as 
     <img src="/Images/Aus_Demographics_Dropped_Population_Line.png" width="1500" height="250">
 </p>
 
-<p>&nbsp;</p>
+
+
 3. What does Australia's financials look like?  
 
 Ans: Very similar story to the graphs above - Australia's Gross Income and Total Income seems to be on a 		 steady rise. Whilst this is a good sign, the influence of inflation on Gross Income and Total Income 		 needs to be factored in before any interpretation.   
@@ -58,7 +59,7 @@ Ans: Very similar story to the graphs above - Australia's Gross Income and Total
 </p>
 
 
-<p>&nbsp;</p>
+
 4. How do we compare to the rest of the world in different sectors of world economy?  
 
 Ans: Australia seems to be doing slighly well or even above the average when compared to the countries
