@@ -67,22 +67,22 @@ Ans: Australia seems to be doing slighly well or even above the average when com
      not as great as China or India. This, however, could partly be driven by the shear size of China's and India's population, which is a key factor in driving a country's economy. When looking into good exported, China clearly leads all countries followed by the United States of America. Here, Australia isn't doing as great as the other countries, and could be something to be focussed on to further improve Australia's economy and GDP. Lastly, inflation seems to effect India the most, this partly could be due to the Rupee being relatively weak to other currencies (e.g., US Dollars, Australian Dollars, Chinese Yen).
 
 <p align="center">
-    <img src="/Images/World_GDP_Growth_Bar.png" width="1500" height="250">
+    <img src="/Images/World_GDP_Growth_Bar_new.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Goods_Export_Bar.png" width="1500" height="250">
+    <img src="/Images/World_Goods_Export_Bar_new.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Inflation_Bar.png" width="1500" height="250">
+    <img src="/Images/World_Inflation_Bar_new.png" width="1500" height="250">
 </p>
 
 
 <p align="center">
-    <img src="/Images/World_Population_Bar.png" width="1500" height="250">
+    <img src="/Images/World_Population_Bar_new.png" width="1500" height="250">
 </p>
 
 
