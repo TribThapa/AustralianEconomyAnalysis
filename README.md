@@ -20,7 +20,7 @@ Briefly, in this repository you will find our analysis on:
 The questions we wanted to answer are:
 
 1. How does Australia's GDP look like when comapred to other countries in the same economic arena?
-
+<p>&nbsp;</p>
 Ans: Australia's GDP looks fairly good when compared to other global markets. This is particularly noticed
      when you look at 2007-2008 (Global Financial Crisis) and 2020 (Covid). Here, you don't see as much changes to Australia's economy as you see for other countries in the same economic arena (see graph below). 
 
@@ -30,9 +30,7 @@ Ans: Australia's GDP looks fairly good when compared to other global markets. Th
 
 <p>&nbsp;</p>
 2. What does Australia's demographic data look like?
-
-
-
+<p>&nbsp;</p>
 Ans: Overall, Australia's population is growing. This is an important factor as population growth plays a
      key role in the progression and success of a country's economy. Further, another positive trend within the Australian demographic data is the steady growth in the total number of employed females. However, whilst the total number of employed females is increasing, more needs to be done to ensure an equivalent number of employed males and females. 
 
