@@ -31,6 +31,8 @@ Ans: Australia's GDP looks fairly good when compared to other global markets. Th
 <p>&nbsp;</p>
 2. What does Australia's demographic data look like?
 
+Ans: Overall, 
+
 Ans: Overall, Australia's population is growing. This is an important factor as population growth plays a
      key role in the progression and success of a country's economy. Further, another positive trend within the Australian demographic data is the steady growth in the total number of employed females. However, whilst the total number of employed females is increasing, more needs to be done to ensure an equivalent number of employed males and females. 
 
