@@ -12,7 +12,7 @@ Briefly, in this repository you will find our analysis on:
 <p>&nbsp;</p>
 
 <p align="center">
-    <img src="/Images/MapCash.PNG" width="1500" height="500">
+    <img src="/Images/MapCash.PNG" width="1300" height="400">
 </p>
 
 <p>&nbsp;</p>
