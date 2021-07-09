@@ -47,13 +47,13 @@ user_input = np.array([total_population,
 
 
 #Load csv files
-gdp = pd.read_csv("GDP_selected_countries_cleaned.csv")
-gdp_bar = pd.read_csv("GDP_selected_countries_cleaned.csv")
-cash_rate = pd.read_csv("cashrate_cleaned.csv")
-population = pd.read_csv("Population_June_Cleaned.csv")
-employment = pd.read_csv("employment_cleaned.csv")
-economy = pd.read_csv("Economy_June_Cleaned.csv")
-household_income = pd.read_csv("Household_Income_cleaned.csv")
+gdp = pd.read_csv("GDP.csv")
+gdp_bar = pd.read_csv("GDP.csv")
+cash_rate = pd.read_csv("CashRate.csv")
+population = pd.read_csv("Population.csv")
+employment = pd.read_csv("Employment.csv")
+economy = pd.read_csv("Economy.csv")
+household_income = pd.read_csv("Income.csv")
 gdp_new = gdp.rename(columns={"Unnamed: 0": "Year"})
 
 # Get data to create complete table
