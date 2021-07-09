@@ -4,6 +4,13 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 import pandas as pd
+from PIL import Image
+
+
+# Images
+img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
+st.image(img, width=None)
+
 
 st.title("Australian Economy Analysis")
 
@@ -12,6 +19,12 @@ st.write('''
 		 finanicals and demographics. Play around with the numbers to see how much Australia's GDP would change
 		 by.
 		 ''')
+
+
+# Images
+#img = Image.open("GDP_Bar.PNG") # this file must be inside the Streamlit folder directory!
+#st.image(img, height=100, width=None,caption="Australia's current GDP")
+
 
 
 st.header("Enter your values to predict Australia's GDP")
