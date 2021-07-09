@@ -8,12 +8,22 @@ from PIL import Image
 
 
 # Images
-def get_image():
-	img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
-	return img
+# def get_image():
+# 	img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
+# 	return img
 
-img = get_image()
-st.image(img, width=None)
+# img = get_image()
+# st.image(img, width=None)
+
+image_file = st.file_uploader("MapCash",type=['PNG'])
+if image_file is not None:
+	# To See Details
+	# st.write(type(image_file))
+	# st.write(dir(image_file))
+	file_details = {"Filename":image_file.name,"FileType":image_file.type,"FileSize":image_file.size}
+	st.write(file_details)	
+	img = load_image(image_file)
+	st.image(img,width=250,height=250)
 
 
 st.title("Australian Economy Analysis")
