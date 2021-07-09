@@ -8,7 +8,10 @@ from PIL import Image
 
 
 # Images
-img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
+def get_image():
+	img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
+	return img
+
 st.image(img, width=None)
 
 
