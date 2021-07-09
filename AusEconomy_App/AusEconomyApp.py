@@ -12,6 +12,7 @@ def get_image():
 	img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
 	return img
 
+img = get_image()
 st.image(img, width=None)
 
 
