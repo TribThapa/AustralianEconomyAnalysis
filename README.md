@@ -64,7 +64,7 @@ Ans: Very similar story to the graphs above - Australia's Gross Income and Total
 
 Ans: Australia seems to be doing slighly well or even above the average when compared to countries
      with similar economic landscapes. For instance, the rate at which our GDP is growing is good but 
-     not as great as China or India. This, however, could partly be driven by the sheer size of China's and India's population - a key factor in driving a country's economy. When looking into Exported Goods, China clearly leads all countries followed by the United States of America. Here, Australia isn't doing as great as the other countries, and could be something to be focussed on to further improve Australia's economy and GDP. Lastly, inflation seems to effect India the most, this partly could be due to the Rupee being relatively weak to other currencies (e.g., US Dollars, Australian Dollars, Chinese Yen).
+     not as great as China or India. This, however, could partly be driven by the sheer size of China's and India's population - a key factor in driving a country's economy. When looking into Exported Goods, China clearly leads all countries followed by the United States of America. Here, Australia isn't doing as great as the other countries, and could be something to be focussed on to further improve Australia's economy and GDP. Lastly, inflation seems to effect India the most, this partly could be due to the Rupee being relatively weak to other currencies (e.g., US Dollar, Australian Dollar, Chinese Yen).
 
 <p align="center">
     <img src="/Images/World_GDP_Growth_Bar_new.png" width="1500" height="250">
