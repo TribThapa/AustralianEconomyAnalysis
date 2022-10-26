@@ -8,8 +8,8 @@ from PIL import Image
 
 
 # Images
-img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
-st.image(img, width=None)
+#img = Image.open("MapCash.PNG") # this file must be inside the Streamlit folder directory!
+#st.image(img, width=None)
 
 
 st.title("Australian Economy Analysis")
